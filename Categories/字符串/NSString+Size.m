@@ -1,10 +1,5 @@
 //
 //  NSString+Size.m
-//  QQing
-//
-//  Created by 李杰 on 2/13/15.
-//
-//
 
 #import "NSString+Size.h"
 

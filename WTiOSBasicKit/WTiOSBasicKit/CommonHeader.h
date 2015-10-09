@@ -1,13 +1,8 @@
 //
 //  CommonHeader.h
-//  QQingCommon
-//
-//  Created by Ben on 15/8/13.
-//  Copyright (c) 2015年 QQingiOSTeam. All rights reserved.
-//
 
-#ifndef QQingCommon_CommonHeader_h
-#define QQingCommon_CommonHeader_h
+#ifndef Common_CommonHeader_h
+#define Common_CommonHeader_h
 
 #ifdef __OBJC__
 #import <UIKit/UIKit.h>
@@ -30,8 +25,6 @@
 #import "UIColor+theme.h"
 #import "UIImage+Blur.h"
 #import "UIImage+Utility.h"
-#import "NSBundle+Utility.h"
-
 
 #import "macrodef.h"
 #import "typedef.h"

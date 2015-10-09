@@ -1,10 +1,6 @@
 //
 //  UIView+Hierarchy.h
-//  QQing
-//
-//  Created by 李杰 on 2/22/15.
-//
-//
+
 
 #import <UIKit/UIKit.h>
 

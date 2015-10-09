@@ -1,10 +1,6 @@
 //
 //  NSData+EncDec.m
-//  QQing
-//
-//  Created by 李杰 on 5/19/15.
-//
-//
+
 #import <CommonCrypto/CommonDigest.h>
 #import "NSData+EncDec.h"
 

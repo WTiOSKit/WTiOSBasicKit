@@ -1,10 +1,6 @@
 //
 //  blocktype.h
-//  QQing
-//
-//  Created by 李杰 on 1/22/15.
-//
-//
+
 
 #ifndef QQing_typedef_h
 #define QQing_typedef_h

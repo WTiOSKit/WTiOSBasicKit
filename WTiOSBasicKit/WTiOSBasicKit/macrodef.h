@@ -1,10 +1,6 @@
 //
 //  def.h
-//  QQing
-//
-//  Created by 李杰 on 1/26/15.
-//
-//
+
 
 #ifndef QQing_def_h
 #define QQing_def_h

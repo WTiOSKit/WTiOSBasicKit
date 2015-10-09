@@ -1,10 +1,6 @@
 //
 //  NSString+App.h
-//  QQingCommon
-//
-//  Created by Ben on 15/8/18.
-//  Copyright (c) 2015年 QQingiOSTeam. All rights reserved.
-//
+
 
 #import <Foundation/Foundation.h>
 

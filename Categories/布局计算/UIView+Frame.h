@@ -1,10 +1,6 @@
 //
 //  UIView+Frame.h
-//  QQing
-//
-//  Created by 李杰 on 2/20/15.
-//
-//
+
 
 #import <UIKit/UIKit.h>
 

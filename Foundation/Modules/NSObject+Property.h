@@ -1,10 +1,6 @@
 //
 //  NSObject+Property.h
-//  QQing
-//
-//  Created by 李杰 on 5/19/15.
-//
-//
+
 
 #pragma mark -
 

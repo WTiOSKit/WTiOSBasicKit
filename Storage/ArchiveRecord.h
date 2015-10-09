@@ -2,7 +2,7 @@
 //  ArchiveRecord.h
 //  QQing
 //
-//  Created by 李杰 on 7/2/15.
+//  Created by fallen.ink on 7/2/15.
 //
 //  Encode/Decode object(implement NSCoding/NSCopying proto) by NSKeyedArchiver/NSKeyedUnarchiver
 

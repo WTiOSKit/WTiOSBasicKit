@@ -12,41 +12,39 @@
 		931A57711BC6505400FF49C7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A57701BC6505400FF49C7 /* ViewController.m */; };
 		931A57741BC6505400FF49C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 931A57721BC6505400FF49C7 /* Main.storyboard */; };
 		931A57761BC6505400FF49C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 931A57751BC6505400FF49C7 /* Assets.xcassets */; };
-		931A57791BC6505400FF49C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 931A57771BC6505400FF49C7 /* LaunchScreen.storyboard */; };
 		931A57841BC6505400FF49C7 /* WTiOSBasicKitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A57831BC6505400FF49C7 /* WTiOSBasicKitTests.m */; };
 		931A578F1BC6505400FF49C7 /* WTiOSBasicKitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A578E1BC6505400FF49C7 /* WTiOSBasicKitUITests.m */; };
-		931A583B1BC65F8D00FF49C7 /* NSBundle+Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A57FD1BC65F8D00FF49C7 /* NSBundle+Utility.m */; settings = {ASSET_TAGS = (); }; };
-		931A583C1BC65F8D00FF49C7 /* UIImage+Blur.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58001BC65F8D00FF49C7 /* UIImage+Blur.m */; settings = {ASSET_TAGS = (); }; };
-		931A583D1BC65F8D00FF49C7 /* UIImage+Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58021BC65F8D00FF49C7 /* UIImage+Utility.m */; settings = {ASSET_TAGS = (); }; };
-		931A583E1BC65F8D00FF49C7 /* NSString+App.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58051BC65F8D00FF49C7 /* NSString+App.m */; settings = {ASSET_TAGS = (); }; };
-		931A583F1BC65F8D00FF49C7 /* NSString+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58071BC65F8D00FF49C7 /* NSString+Extension.m */; settings = {ASSET_TAGS = (); }; };
-		931A58401BC65F8D00FF49C7 /* NSString+Size.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58091BC65F8D00FF49C7 /* NSString+Size.m */; settings = {ASSET_TAGS = (); }; };
-		931A58411BC65F8D00FF49C7 /* NSArray+ObjectAtIndexWithBoundsCheck.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A580C1BC65F8D00FF49C7 /* NSArray+ObjectAtIndexWithBoundsCheck.m */; settings = {ASSET_TAGS = (); }; };
-		931A58421BC65F8D00FF49C7 /* NSArray+SafeValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A580E1BC65F8D00FF49C7 /* NSArray+SafeValue.m */; settings = {ASSET_TAGS = (); }; };
-		931A58431BC65F8D00FF49C7 /* NSDictionary+SafeValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58101BC65F8D00FF49C7 /* NSDictionary+SafeValue.m */; settings = {ASSET_TAGS = (); }; };
-		931A58441BC65F8D00FF49C7 /* NSObject+SafeValueWithJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58121BC65F8D00FF49C7 /* NSObject+SafeValueWithJSON.m */; settings = {ASSET_TAGS = (); }; };
-		931A58451BC65F8D00FF49C7 /* UIView+Hierarchy.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58161BC65F8D00FF49C7 /* UIView+Hierarchy.m */; settings = {ASSET_TAGS = (); }; };
-		931A58461BC65F8D00FF49C7 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58191BC65F8D00FF49C7 /* UIView+Frame.m */; settings = {ASSET_TAGS = (); }; };
-		931A58471BC65F8D00FF49C7 /* NSData+EncDec.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A581C1BC65F8D00FF49C7 /* NSData+EncDec.m */; settings = {ASSET_TAGS = (); }; };
-		931A584A1BC65F8D00FF49C7 /* ColorPalette.xib in Resources */ = {isa = PBXBuildFile; fileRef = 931A58231BC65F8D00FF49C7 /* ColorPalette.xib */; settings = {ASSET_TAGS = (); }; };
-		931A584B1BC65F8D00FF49C7 /* UIColor+theme.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58251BC65F8D00FF49C7 /* UIColor+theme.m */; settings = {ASSET_TAGS = (); }; };
+		931A583C1BC65F8D00FF49C7 /* UIImage+Blur.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58001BC65F8D00FF49C7 /* UIImage+Blur.m */; };
+		931A583D1BC65F8D00FF49C7 /* UIImage+Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58021BC65F8D00FF49C7 /* UIImage+Utility.m */; };
+		931A583E1BC65F8D00FF49C7 /* NSString+App.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58051BC65F8D00FF49C7 /* NSString+App.m */; };
+		931A583F1BC65F8D00FF49C7 /* NSString+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58071BC65F8D00FF49C7 /* NSString+Extension.m */; };
+		931A58401BC65F8D00FF49C7 /* NSString+Size.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58091BC65F8D00FF49C7 /* NSString+Size.m */; };
+		931A58411BC65F8D00FF49C7 /* NSArray+ObjectAtIndexWithBoundsCheck.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A580C1BC65F8D00FF49C7 /* NSArray+ObjectAtIndexWithBoundsCheck.m */; };
+		931A58421BC65F8D00FF49C7 /* NSArray+SafeValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A580E1BC65F8D00FF49C7 /* NSArray+SafeValue.m */; };
+		931A58431BC65F8D00FF49C7 /* NSDictionary+SafeValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58101BC65F8D00FF49C7 /* NSDictionary+SafeValue.m */; };
+		931A58441BC65F8D00FF49C7 /* NSObject+SafeValueWithJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58121BC65F8D00FF49C7 /* NSObject+SafeValueWithJSON.m */; };
+		931A58451BC65F8D00FF49C7 /* UIView+Hierarchy.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58161BC65F8D00FF49C7 /* UIView+Hierarchy.m */; };
+		931A58461BC65F8D00FF49C7 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58191BC65F8D00FF49C7 /* UIView+Frame.m */; };
+		931A58471BC65F8D00FF49C7 /* NSData+EncDec.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A581C1BC65F8D00FF49C7 /* NSData+EncDec.m */; };
+		931A584A1BC65F8D00FF49C7 /* ColorPalette.xib in Resources */ = {isa = PBXBuildFile; fileRef = 931A58231BC65F8D00FF49C7 /* ColorPalette.xib */; };
+		931A584B1BC65F8D00FF49C7 /* UIColor+theme.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58251BC65F8D00FF49C7 /* UIColor+theme.m */; };
 		931A584C1BC65F8D00FF49C7 /* UIColor-Expanded.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58271BC65F8D00FF49C7 /* UIColor-Expanded.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		931A584D1BC65F8D00FF49C7 /* UITextField+ExtentRange.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A582A1BC65F8D00FF49C7 /* UITextField+ExtentRange.m */; settings = {ASSET_TAGS = (); }; };
-		931A584E1BC65F8D00FF49C7 /* NSObject+Property.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A582F1BC65F8D00FF49C7 /* NSObject+Property.m */; settings = {ASSET_TAGS = (); }; };
-		931A584F1BC65F8D00FF49C7 /* NSObject+Property_.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58311BC65F8D00FF49C7 /* NSObject+Property_.m */; settings = {ASSET_TAGS = (); }; };
-		931A58501BC65F8D00FF49C7 /* NSArray+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58331BC65F8D00FF49C7 /* NSArray+Extension.m */; settings = {ASSET_TAGS = (); }; };
-		931A58511BC65F8D00FF49C7 /* NSDictionary+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58351BC65F8D00FF49C7 /* NSDictionary+Extension.m */; settings = {ASSET_TAGS = (); }; };
-		931A58521BC65F8D00FF49C7 /* NSMutableDictionary+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58371BC65F8D00FF49C7 /* NSMutableDictionary+Extension.m */; settings = {ASSET_TAGS = (); }; };
-		931A58531BC65F8D00FF49C7 /* NSObject+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58391BC65F8D00FF49C7 /* NSObject+Extension.m */; settings = {ASSET_TAGS = (); }; };
-		931A58541BC65F8D00FF49C7 /* README.MD in Sources */ = {isa = PBXBuildFile; fileRef = 931A583A1BC65F8D00FF49C7 /* README.MD */; settings = {ASSET_TAGS = (); }; };
-		931A585A1BC660BF00FF49C7 /* ArchiveRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58571BC660BF00FF49C7 /* ArchiveRecord.m */; settings = {ASSET_TAGS = (); }; };
-		931A58641BC6616800FF49C7 /* QQingUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A585E1BC6616800FF49C7 /* QQingUtils.m */; settings = {ASSET_TAGS = (); }; };
-		931A58651BC6616800FF49C7 /* UIDeviceUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58601BC6616800FF49C7 /* UIDeviceUtil.m */; settings = {ASSET_TAGS = (); }; };
-		931A58661BC6616800FF49C7 /* UIUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58621BC6616800FF49C7 /* UIUtils.m */; settings = {ASSET_TAGS = (); }; };
-		931A58761BC667E200FF49C7 /* TSMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A586C1BC667E200FF49C7 /* TSMessage.m */; settings = {ASSET_TAGS = (); }; };
-		931A58771BC667E200FF49C7 /* HexColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58701BC667E200FF49C7 /* HexColor.m */; settings = {ASSET_TAGS = (); }; };
-		931A58781BC667E200FF49C7 /* TSBlurView.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58731BC667E200FF49C7 /* TSBlurView.m */; settings = {ASSET_TAGS = (); }; };
-		931A58791BC667E200FF49C7 /* TSMessageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58751BC667E200FF49C7 /* TSMessageView.m */; settings = {ASSET_TAGS = (); }; };
+		931A584D1BC65F8D00FF49C7 /* UITextField+ExtentRange.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A582A1BC65F8D00FF49C7 /* UITextField+ExtentRange.m */; };
+		931A584E1BC65F8D00FF49C7 /* NSObject+Property.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A582F1BC65F8D00FF49C7 /* NSObject+Property.m */; };
+		931A584F1BC65F8D00FF49C7 /* NSObject+Property_.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58311BC65F8D00FF49C7 /* NSObject+Property_.m */; };
+		931A58501BC65F8D00FF49C7 /* NSArray+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58331BC65F8D00FF49C7 /* NSArray+Extension.m */; };
+		931A58511BC65F8D00FF49C7 /* NSDictionary+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58351BC65F8D00FF49C7 /* NSDictionary+Extension.m */; };
+		931A58521BC65F8D00FF49C7 /* NSMutableDictionary+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58371BC65F8D00FF49C7 /* NSMutableDictionary+Extension.m */; };
+		931A58531BC65F8D00FF49C7 /* NSObject+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58391BC65F8D00FF49C7 /* NSObject+Extension.m */; };
+		931A58541BC65F8D00FF49C7 /* README.MD in Sources */ = {isa = PBXBuildFile; fileRef = 931A583A1BC65F8D00FF49C7 /* README.MD */; };
+		931A585A1BC660BF00FF49C7 /* ArchiveRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58571BC660BF00FF49C7 /* ArchiveRecord.m */; };
+		931A58641BC6616800FF49C7 /* QQingUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A585E1BC6616800FF49C7 /* QQingUtils.m */; };
+		931A58651BC6616800FF49C7 /* UIDeviceUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58601BC6616800FF49C7 /* UIDeviceUtil.m */; };
+		931A58661BC6616800FF49C7 /* UIUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58621BC6616800FF49C7 /* UIUtils.m */; };
+		931A58761BC667E200FF49C7 /* TSMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A586C1BC667E200FF49C7 /* TSMessage.m */; };
+		931A58771BC667E200FF49C7 /* HexColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58701BC667E200FF49C7 /* HexColor.m */; };
+		931A58781BC667E200FF49C7 /* TSBlurView.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58731BC667E200FF49C7 /* TSBlurView.m */; };
+		931A58791BC667E200FF49C7 /* TSMessageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 931A58751BC667E200FF49C7 /* TSMessageView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,7 +73,6 @@
 		931A57701BC6505400FF49C7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		931A57731BC6505400FF49C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		931A57751BC6505400FF49C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		931A57781BC6505400FF49C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		931A577A1BC6505400FF49C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		931A577F1BC6505400FF49C7 /* WTiOSBasicKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WTiOSBasicKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		931A57831BC6505400FF49C7 /* WTiOSBasicKitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WTiOSBasicKitTests.m; sourceTree = "<group>"; };
@@ -85,8 +82,6 @@
 		931A57901BC6505400FF49C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		931A57F81BC65B7600FF49C7 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		931A57F91BC65BB000FF49C7 /* CommonHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CommonHeader.h; sourceTree = "<group>"; };
-		931A57FC1BC65F8D00FF49C7 /* NSBundle+Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+Utility.h"; sourceTree = "<group>"; };
-		931A57FD1BC65F8D00FF49C7 /* NSBundle+Utility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+Utility.m"; sourceTree = "<group>"; };
 		931A57FF1BC65F8D00FF49C7 /* UIImage+Blur.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Blur.h"; sourceTree = "<group>"; };
 		931A58001BC65F8D00FF49C7 /* UIImage+Blur.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Blur.m"; sourceTree = "<group>"; };
 		931A58011BC65F8D00FF49C7 /* UIImage+Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Utility.h"; sourceTree = "<group>"; };
@@ -213,7 +208,6 @@
 				931A57701BC6505400FF49C7 /* ViewController.m */,
 				931A57721BC6505400FF49C7 /* Main.storyboard */,
 				931A57751BC6505400FF49C7 /* Assets.xcassets */,
-				931A57771BC6505400FF49C7 /* LaunchScreen.storyboard */,
 				931A577A1BC6505400FF49C7 /* Info.plist */,
 				931A57691BC6505400FF49C7 /* Supporting Files */,
 			);
@@ -253,7 +247,6 @@
 		931A57FA1BC65F8D00FF49C7 /* Categories */ = {
 			isa = PBXGroup;
 			children = (
-				931A57FB1BC65F8D00FF49C7 /* NSBundle */,
 				931A57FE1BC65F8D00FF49C7 /* 图片相关 */,
 				931A58031BC65F8D00FF49C7 /* 字符串 */,
 				931A580A1BC65F8D00FF49C7 /* 安全检查 */,
@@ -265,15 +258,6 @@
 			);
 			name = Categories;
 			path = ../Categories;
-			sourceTree = "<group>";
-		};
-		931A57FB1BC65F8D00FF49C7 /* NSBundle */ = {
-			isa = PBXGroup;
-			children = (
-				931A57FC1BC65F8D00FF49C7 /* NSBundle+Utility.h */,
-				931A57FD1BC65F8D00FF49C7 /* NSBundle+Utility.m */,
-			);
-			path = NSBundle;
 			sourceTree = "<group>";
 		};
 		931A57FE1BC65F8D00FF49C7 /* 图片相关 */ = {
@@ -578,7 +562,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				931A57791BC6505400FF49C7 /* LaunchScreen.storyboard in Resources */,
 				931A57761BC6505400FF49C7 /* Assets.xcassets in Resources */,
 				931A57741BC6505400FF49C7 /* Main.storyboard in Resources */,
 				931A584A1BC65F8D00FF49C7 /* ColorPalette.xib in Resources */,
@@ -626,7 +609,6 @@
 				931A58761BC667E200FF49C7 /* TSMessage.m in Sources */,
 				931A58451BC65F8D00FF49C7 /* UIView+Hierarchy.m in Sources */,
 				931A58771BC667E200FF49C7 /* HexColor.m in Sources */,
-				931A583B1BC65F8D00FF49C7 /* NSBundle+Utility.m in Sources */,
 				931A584F1BC65F8D00FF49C7 /* NSObject+Property_.m in Sources */,
 				931A583E1BC65F8D00FF49C7 /* NSString+App.m in Sources */,
 				931A58541BC65F8D00FF49C7 /* README.MD in Sources */,
@@ -683,14 +665,6 @@
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		931A57771BC6505400FF49C7 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				931A57781BC6505400FF49C7 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -730,7 +704,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -767,7 +741,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -781,6 +755,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/WTiOSBasicKit/PrefixHeader.pch";
 				INFOPLIST_FILE = WTiOSBasicKit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.qq.testPro.WTiOSBasicKit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -794,6 +769,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/WTiOSBasicKit/PrefixHeader.pch";
 				INFOPLIST_FILE = WTiOSBasicKit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.qq.testPro.WTiOSBasicKit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -829,6 +805,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = WTiOSBasicKitUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = com.qq.testPro.WTiOSBasicKitUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = WTiOSBasicKit;
@@ -867,6 +844,7 @@
 				931A57951BC6505400FF49C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		931A57961BC6505400FF49C7 /* Build configuration list for PBXNativeTarget "WTiOSBasicKitTests" */ = {
 			isa = XCConfigurationList;
@@ -875,6 +853,7 @@
 				931A57981BC6505400FF49C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		931A57991BC6505400FF49C7 /* Build configuration list for PBXNativeTarget "WTiOSBasicKitUITests" */ = {
 			isa = XCConfigurationList;
@@ -883,6 +862,7 @@
 				931A579B1BC6505400FF49C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

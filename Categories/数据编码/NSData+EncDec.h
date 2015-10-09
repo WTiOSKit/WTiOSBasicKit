@@ -1,10 +1,6 @@
 //
 //  NSData+EncDec.h
-//  QQing
-//
-//  Created by 李杰 on 5/19/15.
-//
-//
+
 
 #import <Foundation/Foundation.h>
 

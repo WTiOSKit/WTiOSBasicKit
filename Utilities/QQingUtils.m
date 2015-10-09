@@ -2,7 +2,7 @@
 //  QQingUtils.m
 //  QQing
 //
-//  Created by 李杰 on 1/28/15.
+//  Created by fallen.ink on 1/28/15.
 //
 //
 

@@ -1,10 +1,6 @@
 //
 //  UIColor+theme.h
-//  QQing
-//
-//  Created by 李杰 on 1/22/15.
-//
-//
+
 
 #import <UIKit/UIKit.h>
 
